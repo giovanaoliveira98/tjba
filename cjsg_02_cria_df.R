@@ -1,0 +1,1 @@
+df <- httr::content(r, simplifyDataFrame = TRUE)
